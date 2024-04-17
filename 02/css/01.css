@@ -1,0 +1,316 @@
+.top{
+    position: relative;
+    height: 60px;
+    background-color: #07cbc9; 
+    padding: 10px 0px;
+    min-width: 1700px;
+}
+.tp1{
+    width: 300px;
+    float: left;
+}
+.tr{
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.tr a {
+    padding-right: 10px;
+    color: white;
+}
+.banner{
+    position: relative;
+    min-width: 1700px;
+}
+.banner .carousel_list li img {
+    width: 100%;
+    vertical-align: middle;
+    position: relative;
+}
+.tianx{
+    position: absolute;
+    top: 25%;
+    left: 0;
+    width: auto;
+    left: 70%;
+    margin-left: -615px;
+}
+.tianx li {
+    padding-bottom: 40px;
+    position: relative;
+}
+.tianx li input {
+    width: 505px;
+    border-width: 2px ;
+    height: 39px;
+    background-color: transparent;
+    border-color: rgb(156, 149, 149);
+    color: rgb(156, 149, 149) ;
+} 
+.tianx li .w1{
+    height: 115px;
+    width: 505px;
+    padding: 0px;
+    background-color: transparent;
+    border-width: 2px ;
+    border-color: rgb(156, 149, 149);
+    color: rgb(156, 149, 149) ;
+}
+.tianx .C1{
+    background-color: transparent;
+    margin-left: 180px;
+    height: 39px;
+    width: 123px;
+    color: rgb(156, 149, 149);
+}
+.ABOUT {
+    overflow: hidden;
+    margin: 20px 200px;
+    position: relative;
+    margin-bottom: 90px;
+}
+.ABOUT .s1{
+    padding-left: 49%;
+    color: #07cbc9;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.ABOUT .tar{
+    width: 500px;
+    margin-top: 10px;
+    color: grey;
+    padding: 0px;
+    font-size: 18px;
+    height: auto;
+    word-break: break-word;
+    white-space: pre-line;
+    margin-left: 34%;
+}
+.ABOUT h1{
+    text-align: center;
+    font-size: 55px;
+}
+.ABOUT .img{
+    height: 380px;
+    width: 568px;
+    margin-left: 470px;
+    margin-top: 20px;
+}
+.ABOUT img {
+    width: 100%;
+}
+.ABOUT .f1 {
+    height: 144px;
+    width: 238px;
+    border-width: 1px;
+    border-color: #07cbc9;
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    left: 1100px;
+    right: 0;
+    border-style:solid;
+    border-width:1px;
+}
+.ABOUT .f2{
+    height: 144px;
+    width: 238px;
+    border-width: 1px;
+    border-color: #07cbc9;
+    position: absolute;
+    top: 400px;
+    bottom: 0;
+    left: 1100px;
+    right: 0;
+    border-style:solid;
+    border-width:1px;
+} 
+.ABOUT .f1 h1 ,.ABOUT .f2 h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+    
+}
+.ABOUT .hx {
+    border-bottom: 1px solid #07cbc9;
+    width: 40px;
+    margin: 18px 0px;
+    margin-left: 99px;
+
+}
+.ABOUT .f1 h2,.ABOUT .f2 h2{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 2px;
+    margin-bottom: 6px;
+
+}
+.ABOUT .f3 {
+    height: 100px;
+    width: 234px;
+    /* border-width: 1px; */
+    border-color: #07cbc9;
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    left: 234px;
+    right: 0;
+    /* border-style:solid;
+    border-width:1px; */
+    font-size: 37px;
+}
+.ABOUT .f4 {
+    height: 206px;
+    width: 330px;
+    border-width: 1px;
+    border-color: gray;
+    position: absolute;
+    top: 341px;
+    bottom: 0;
+    left: 234px;
+    right: 0;
+    border-style:solid;
+    border-width:1px;
+    padding: 20px;
+    font-size: 18px;
+    background-color: rgba(185, 182, 182, 0.1);
+}
+.ABOUT .f4 button{
+    margin-top: 30px;
+    height: 45px;
+    width: 120px;
+    background-color: black;
+    color: white;
+}
+.MAIN{
+    overflow: hidden;
+    position: relative;
+}
+.MAIN ul li{
+    float: left;
+    width: 25%;
+    min-height: 475.750px;
+    background-color: #07cbc9;
+
+}
+.MAIN ul li .dd{
+    padding: 45px;
+}
+.MAIN ul li .dd h1 {
+    color: white;
+    font-size: 40px;
+    padding-top: 28px;
+}
+.MAIN ul li .dd h2{
+    padding-top: 20px;
+    color: white;
+    font-size: 18px;
+    line-height: 32px;
+}
+.MAIN ul li .dd h3{
+    color: rgb(228, 228, 228);
+    font-size: 15px;
+    padding-top: 15px;
+}
+.MAIN ul li img {
+    width: 100%;
+    vertical-align: middle;
+}
+.MAIN .p1 .t1{
+    position: absolute;
+    background-color:#07cbc9;
+    height: 35px;
+    width: 35px;
+    top: 244px;
+    left: 459px;
+    transform: rotate(45deg);
+}
+.MAIN .p1 .t2{
+    position: absolute;
+    background-color:#07cbc9;
+    height: 35px;
+    width: 35px;
+    top: 244px;
+    left: 1409px;
+    transform: rotate(45deg);
+}
+.MAIN .p1 .t3{
+    position: absolute;
+    background-color:#07cbc9;
+    height: 35px;
+    width: 35px;
+    top: 714px;
+    left: 459px;
+    transform: rotate(45deg);
+}
+.MAIN .p1 .t4{
+    position: absolute;
+    background-color:#07cbc9;
+    height: 35px;
+    width: 35px;
+    top: 714px;
+    left: 1409px;
+    transform: rotate(45deg);
+}
+.MAIN ul li button {
+    height: 45px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    margin-left: 174px;
+    margin-top: 20px;
+}
+.GALLERY {
+    overflow: hidden;
+    margin: 0px 200px;
+    margin-top: 50px;
+}
+
+.GALLERY  span{
+    padding-left: 49%;
+    color: #07cbc9;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.GALLERY .tar{
+    width: 500px;
+    margin-top: 10px;
+    color: grey;
+    padding: 0px;
+    font-size: 18px;
+    height: auto;
+    word-break: break-word;
+    white-space: pre-line;
+    margin-left: 34%;
+}
+.GALLERY h1{
+    text-align: center;
+    font-size: 55px;
+}
+.GALLERY .wordbox {
+    height: 44px;
+    padding: 20px 9px 0;
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+}
+.GALLERY ul li {
+    float: left;
+    padding-left: 100px;
+    margin-top: 35px;
+}
+.GALLERY .img {
+    height: 240px;
+    vertical-align: middle;
+}
+footer{
+    height: 80px;
+    background-color: #07cbc9;
+    min-width: 1700px;
+    margin-top: 50px;
+}
+footer .f1{
+    text-align: center;
+    padding-top: 32px;
+}
